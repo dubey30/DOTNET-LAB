@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOL", "BOL\BOL.csproj", "{A5FC3A8F-2249-4B4E-8E7B-3A6827C0ACAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBOL", "TestBOL\TestBOL.csproj", "{6FDE981A-3E75-455F-A02D-C22CAB399DCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMSapp", "PMSapp\PMSapp.csproj", "{CDDE0071-4376-41E3-82BC-F98E220292C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5FC3A8F-2249-4B4E-8E7B-3A6827C0ACAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5FC3A8F-2249-4B4E-8E7B-3A6827C0ACAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5FC3A8F-2249-4B4E-8E7B-3A6827C0ACAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5FC3A8F-2249-4B4E-8E7B-3A6827C0ACAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FDE981A-3E75-455F-A02D-C22CAB399DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FDE981A-3E75-455F-A02D-C22CAB399DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FDE981A-3E75-455F-A02D-C22CAB399DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FDE981A-3E75-455F-A02D-C22CAB399DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDDE0071-4376-41E3-82BC-F98E220292C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDDE0071-4376-41E3-82BC-F98E220292C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDDE0071-4376-41E3-82BC-F98E220292C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDDE0071-4376-41E3-82BC-F98E220292C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

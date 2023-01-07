@@ -1,0 +1,12 @@
+G:\.NetPractice\DAY5\day5\Projectmanagement\bin\Debug\net7.0\Projectmanagement.deps.json
+G:\.NetPractice\DAY5\day5\Projectmanagement\bin\Debug\net7.0\Projectmanagement.dll
+G:\.NetPractice\DAY5\day5\Projectmanagement\bin\Debug\net7.0\Projectmanagement.pdb
+G:\.NetPractice\DAY5\day5\Projectmanagement\obj\Debug\net7.0\Projectmanagement.csproj.AssemblyReference.cache
+G:\.NetPractice\DAY5\day5\Projectmanagement\obj\Debug\net7.0\Projectmanagement.GeneratedMSBuildEditorConfig.editorconfig
+G:\.NetPractice\DAY5\day5\Projectmanagement\obj\Debug\net7.0\Projectmanagement.AssemblyInfoInputs.cache
+G:\.NetPractice\DAY5\day5\Projectmanagement\obj\Debug\net7.0\Projectmanagement.AssemblyInfo.cs
+G:\.NetPractice\DAY5\day5\Projectmanagement\obj\Debug\net7.0\Projectmanagement.csproj.CoreCompileInputs.cache
+G:\.NetPractice\DAY5\day5\Projectmanagement\obj\Debug\net7.0\Projectmanagement.dll
+G:\.NetPractice\DAY5\day5\Projectmanagement\obj\Debug\net7.0\refint\Projectmanagement.dll
+G:\.NetPractice\DAY5\day5\Projectmanagement\obj\Debug\net7.0\Projectmanagement.pdb
+G:\.NetPractice\DAY5\day5\Projectmanagement\obj\Debug\net7.0\ref\Projectmanagement.dll

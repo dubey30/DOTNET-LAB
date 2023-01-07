@@ -1,0 +1,91 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "test/1.0.0": {
+        "dependencies": {
+          "Billing": "1.0.0",
+          "CRM": "1.0.0",
+          "Catalog": "1.0.0",
+          "HR": "1.0.0",
+          "membership": "1.0.0",
+          "shipment": "1.0.0"
+        },
+        "runtime": {
+          "test.dll": {}
+        }
+      },
+      "Billing/1.0.0": {
+        "runtime": {
+          "Billing.dll": {}
+        }
+      },
+      "Catalog/1.0.0": {
+        "runtime": {
+          "Catalog.dll": {}
+        }
+      },
+      "CRM/1.0.0": {
+        "runtime": {
+          "CRM.dll": {}
+        }
+      },
+      "HR/1.0.0": {
+        "runtime": {
+          "HR.dll": {}
+        }
+      },
+      "membership/1.0.0": {
+        "runtime": {
+          "membership.dll": {}
+        }
+      },
+      "shipment/1.0.0": {
+        "runtime": {
+          "shipment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Billing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Catalog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CRM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "membership/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "shipment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

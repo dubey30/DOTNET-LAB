@@ -1,0 +1,186 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Billing/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Billing.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Billing.dll": {}
+        }
+      },
+      "Catalog/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Catalog.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Catalog.dll": {}
+        }
+      },
+      "CRM/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CRM.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CRM.dll": {}
+        }
+      },
+      "HR/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/HR.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HR.dll": {}
+        }
+      },
+      "membership/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/membership.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/membership.dll": {}
+        }
+      },
+      "shipment/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/shipment.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/shipment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Billing/1.0.0": {
+      "type": "project",
+      "path": "../Billing/Billing.csproj",
+      "msbuildProject": "../Billing/Billing.csproj"
+    },
+    "Catalog/1.0.0": {
+      "type": "project",
+      "path": "../Catalog/Catalog.csproj",
+      "msbuildProject": "../Catalog/Catalog.csproj"
+    },
+    "CRM/1.0.0": {
+      "type": "project",
+      "path": "../CRM/CRM.csproj",
+      "msbuildProject": "../CRM/CRM.csproj"
+    },
+    "HR/1.0.0": {
+      "type": "project",
+      "path": "../HR/HR.csproj",
+      "msbuildProject": "../HR/HR.csproj"
+    },
+    "membership/1.0.0": {
+      "type": "project",
+      "path": "../Membership/membership.csproj",
+      "msbuildProject": "../Membership/membership.csproj"
+    },
+    "shipment/1.0.0": {
+      "type": "project",
+      "path": "../Shipment/shipment.csproj",
+      "msbuildProject": "../Shipment/shipment.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Billing >= 1.0.0",
+      "CRM >= 1.0.0",
+      "Catalog >= 1.0.0",
+      "HR >= 1.0.0",
+      "membership >= 1.0.0",
+      "shipment >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\dac\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\.NetPractice\\ecommerce\\test\\test.csproj",
+      "projectName": "test",
+      "projectPath": "G:\\.NetPractice\\ecommerce\\test\\test.csproj",
+      "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
+      "outputPath": "G:\\.NetPractice\\ecommerce\\test\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "G:\\.NetPractice\\ecommerce\\Billing\\Billing.csproj": {
+              "projectPath": "G:\\.NetPractice\\ecommerce\\Billing\\Billing.csproj"
+            },
+            "G:\\.NetPractice\\ecommerce\\Catalog\\Catalog.csproj": {
+              "projectPath": "G:\\.NetPractice\\ecommerce\\Catalog\\Catalog.csproj"
+            },
+            "G:\\.NetPractice\\ecommerce\\CRM\\CRM.csproj": {
+              "projectPath": "G:\\.NetPractice\\ecommerce\\CRM\\CRM.csproj"
+            },
+            "G:\\.NetPractice\\ecommerce\\HR\\HR.csproj": {
+              "projectPath": "G:\\.NetPractice\\ecommerce\\HR\\HR.csproj"
+            },
+            "G:\\.NetPractice\\ecommerce\\Membership\\membership.csproj": {
+              "projectPath": "G:\\.NetPractice\\ecommerce\\Membership\\membership.csproj"
+            },
+            "G:\\.NetPractice\\ecommerce\\Shipment\\shipment.csproj": {
+              "projectPath": "G:\\.NetPractice\\ecommerce\\Shipment\\shipment.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+G:\.NetPractice\DAY5\day5\TestBOL\bin\Debug\net7.0\TestBOL.exe
+G:\.NetPractice\DAY5\day5\TestBOL\bin\Debug\net7.0\TestBOL.deps.json
+G:\.NetPractice\DAY5\day5\TestBOL\bin\Debug\net7.0\TestBOL.runtimeconfig.json
+G:\.NetPractice\DAY5\day5\TestBOL\bin\Debug\net7.0\TestBOL.dll
+G:\.NetPractice\DAY5\day5\TestBOL\bin\Debug\net7.0\TestBOL.pdb
+G:\.NetPractice\DAY5\day5\TestBOL\obj\Debug\net7.0\TestBOL.csproj.AssemblyReference.cache
+G:\.NetPractice\DAY5\day5\TestBOL\obj\Debug\net7.0\TestBOL.GeneratedMSBuildEditorConfig.editorconfig
+G:\.NetPractice\DAY5\day5\TestBOL\obj\Debug\net7.0\TestBOL.AssemblyInfoInputs.cache
+G:\.NetPractice\DAY5\day5\TestBOL\obj\Debug\net7.0\TestBOL.AssemblyInfo.cs
+G:\.NetPractice\DAY5\day5\TestBOL\obj\Debug\net7.0\TestBOL.csproj.CoreCompileInputs.cache
+G:\.NetPractice\DAY5\day5\TestBOL\obj\Debug\net7.0\TestBOL.dll
+G:\.NetPractice\DAY5\day5\TestBOL\obj\Debug\net7.0\refint\TestBOL.dll
+G:\.NetPractice\DAY5\day5\TestBOL\obj\Debug\net7.0\TestBOL.pdb
+G:\.NetPractice\DAY5\day5\TestBOL\obj\Debug\net7.0\TestBOL.genruntimeconfig.cache
+G:\.NetPractice\DAY5\day5\TestBOL\obj\Debug\net7.0\ref\TestBOL.dll

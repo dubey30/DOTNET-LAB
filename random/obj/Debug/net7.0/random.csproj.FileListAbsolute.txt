@@ -1,0 +1,15 @@
+G:\.NetPractice\random\obj\Debug\net7.0\random.csproj.AssemblyReference.cache
+G:\.NetPractice\random\obj\Debug\net7.0\random.GeneratedMSBuildEditorConfig.editorconfig
+G:\.NetPractice\random\obj\Debug\net7.0\random.AssemblyInfoInputs.cache
+G:\.NetPractice\random\obj\Debug\net7.0\random.AssemblyInfo.cs
+G:\.NetPractice\random\obj\Debug\net7.0\random.csproj.CoreCompileInputs.cache
+G:\.NetPractice\random\bin\Debug\net7.0\random.exe
+G:\.NetPractice\random\bin\Debug\net7.0\random.deps.json
+G:\.NetPractice\random\bin\Debug\net7.0\random.runtimeconfig.json
+G:\.NetPractice\random\bin\Debug\net7.0\random.dll
+G:\.NetPractice\random\bin\Debug\net7.0\random.pdb
+G:\.NetPractice\random\obj\Debug\net7.0\random.dll
+G:\.NetPractice\random\obj\Debug\net7.0\refint\random.dll
+G:\.NetPractice\random\obj\Debug\net7.0\random.pdb
+G:\.NetPractice\random\obj\Debug\net7.0\random.genruntimeconfig.cache
+G:\.NetPractice\random\obj\Debug\net7.0\ref\random.dll

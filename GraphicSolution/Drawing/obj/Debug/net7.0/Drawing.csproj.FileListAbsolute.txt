@@ -1,0 +1,5 @@
+G:\.NetPractice\GraphicSolution\Drawing\obj\Debug\net7.0\Drawing.csproj.AssemblyReference.cache
+G:\.NetPractice\GraphicSolution\Drawing\obj\Debug\net7.0\Drawing.GeneratedMSBuildEditorConfig.editorconfig
+G:\.NetPractice\GraphicSolution\Drawing\obj\Debug\net7.0\Drawing.AssemblyInfoInputs.cache
+G:\.NetPractice\GraphicSolution\Drawing\obj\Debug\net7.0\Drawing.AssemblyInfo.cs
+G:\.NetPractice\GraphicSolution\Drawing\obj\Debug\net7.0\Drawing.csproj.CoreCompileInputs.cache

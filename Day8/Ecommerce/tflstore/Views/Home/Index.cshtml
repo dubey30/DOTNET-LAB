@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to IACSD</h1>
+    <ol>
+        <li>DAC</li>
+        <li>DBDA</li>
+        <li>DTISS</li>
+    </ol>
+    @{
+        List<string> flowers = new List<string>();
+            flowers.Add("Gerbera");
+            flowers.Add("lily");
+            flowers.Add("Rose");
+            flowers.Add("Lotus");
+            <ol>
+                @foreach(string flower in flowers)
+                {
+                    <li>@flower</li>
+                }
+            </ol>
+            
+            <hr/>
+    }
+</div>

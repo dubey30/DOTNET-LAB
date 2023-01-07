@@ -1,0 +1,5 @@
+G:\.NetPractice\GraphicSolution\OrderProcessing\obj\Debug\net7.0\OrderProcessing.csproj.AssemblyReference.cache
+G:\.NetPractice\GraphicSolution\OrderProcessing\obj\Debug\net7.0\OrderProcessing.GeneratedMSBuildEditorConfig.editorconfig
+G:\.NetPractice\GraphicSolution\OrderProcessing\obj\Debug\net7.0\OrderProcessing.AssemblyInfoInputs.cache
+G:\.NetPractice\GraphicSolution\OrderProcessing\obj\Debug\net7.0\OrderProcessing.AssemblyInfo.cs
+G:\.NetPractice\GraphicSolution\OrderProcessing\obj\Debug\net7.0\OrderProcessing.csproj.CoreCompileInputs.cache

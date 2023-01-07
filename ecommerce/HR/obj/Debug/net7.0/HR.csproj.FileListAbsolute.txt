@@ -1,0 +1,12 @@
+G:\.NetPractice\ecommerce\HR\bin\Debug\net7.0\HR.deps.json
+G:\.NetPractice\ecommerce\HR\bin\Debug\net7.0\HR.dll
+G:\.NetPractice\ecommerce\HR\bin\Debug\net7.0\HR.pdb
+G:\.NetPractice\ecommerce\HR\obj\Debug\net7.0\HR.csproj.AssemblyReference.cache
+G:\.NetPractice\ecommerce\HR\obj\Debug\net7.0\HR.GeneratedMSBuildEditorConfig.editorconfig
+G:\.NetPractice\ecommerce\HR\obj\Debug\net7.0\HR.AssemblyInfoInputs.cache
+G:\.NetPractice\ecommerce\HR\obj\Debug\net7.0\HR.AssemblyInfo.cs
+G:\.NetPractice\ecommerce\HR\obj\Debug\net7.0\HR.csproj.CoreCompileInputs.cache
+G:\.NetPractice\ecommerce\HR\obj\Debug\net7.0\HR.dll
+G:\.NetPractice\ecommerce\HR\obj\Debug\net7.0\refint\HR.dll
+G:\.NetPractice\ecommerce\HR\obj\Debug\net7.0\HR.pdb
+G:\.NetPractice\ecommerce\HR\obj\Debug\net7.0\ref\HR.dll

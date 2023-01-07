@@ -1,0 +1,12 @@
+G:\.NetPractice\ecommerce\Membership\bin\Debug\net7.0\membership.deps.json
+G:\.NetPractice\ecommerce\Membership\bin\Debug\net7.0\membership.dll
+G:\.NetPractice\ecommerce\Membership\bin\Debug\net7.0\membership.pdb
+G:\.NetPractice\ecommerce\Membership\obj\Debug\net7.0\membership.csproj.AssemblyReference.cache
+G:\.NetPractice\ecommerce\Membership\obj\Debug\net7.0\membership.GeneratedMSBuildEditorConfig.editorconfig
+G:\.NetPractice\ecommerce\Membership\obj\Debug\net7.0\membership.AssemblyInfoInputs.cache
+G:\.NetPractice\ecommerce\Membership\obj\Debug\net7.0\membership.AssemblyInfo.cs
+G:\.NetPractice\ecommerce\Membership\obj\Debug\net7.0\membership.csproj.CoreCompileInputs.cache
+G:\.NetPractice\ecommerce\Membership\obj\Debug\net7.0\membership.dll
+G:\.NetPractice\ecommerce\Membership\obj\Debug\net7.0\refint\membership.dll
+G:\.NetPractice\ecommerce\Membership\obj\Debug\net7.0\membership.pdb
+G:\.NetPractice\ecommerce\Membership\obj\Debug\net7.0\ref\membership.dll

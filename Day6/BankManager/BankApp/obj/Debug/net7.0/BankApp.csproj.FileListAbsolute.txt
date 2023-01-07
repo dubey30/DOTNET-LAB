@@ -1,0 +1,15 @@
+G:\.NetPractice\Day6\BankManager\BankApp\obj\Debug\net7.0\BankApp.csproj.AssemblyReference.cache
+G:\.NetPractice\Day6\BankManager\BankApp\obj\Debug\net7.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\.NetPractice\Day6\BankManager\BankApp\obj\Debug\net7.0\BankApp.AssemblyInfoInputs.cache
+G:\.NetPractice\Day6\BankManager\BankApp\obj\Debug\net7.0\BankApp.AssemblyInfo.cs
+G:\.NetPractice\Day6\BankManager\BankApp\obj\Debug\net7.0\BankApp.csproj.CoreCompileInputs.cache
+G:\.NetPractice\Day6\BankManager\BankApp\bin\Debug\net7.0\BankApp.exe
+G:\.NetPractice\Day6\BankManager\BankApp\bin\Debug\net7.0\BankApp.deps.json
+G:\.NetPractice\Day6\BankManager\BankApp\bin\Debug\net7.0\BankApp.runtimeconfig.json
+G:\.NetPractice\Day6\BankManager\BankApp\bin\Debug\net7.0\BankApp.dll
+G:\.NetPractice\Day6\BankManager\BankApp\bin\Debug\net7.0\BankApp.pdb
+G:\.NetPractice\Day6\BankManager\BankApp\obj\Debug\net7.0\BankApp.dll
+G:\.NetPractice\Day6\BankManager\BankApp\obj\Debug\net7.0\refint\BankApp.dll
+G:\.NetPractice\Day6\BankManager\BankApp\obj\Debug\net7.0\BankApp.pdb
+G:\.NetPractice\Day6\BankManager\BankApp\obj\Debug\net7.0\BankApp.genruntimeconfig.cache
+G:\.NetPractice\Day6\BankManager\BankApp\obj\Debug\net7.0\ref\BankApp.dll
